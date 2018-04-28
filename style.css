@@ -5,7 +5,7 @@
 
 
 /* Bannière */
-.bloc-top .img-responsive{
+.banniere .img-responsive{
 	margin-top: -20px;
 	filter:grayscale(1);
 
