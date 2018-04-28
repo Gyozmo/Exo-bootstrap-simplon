@@ -2,6 +2,65 @@
 /*   general   */
 
 /*    barre de navigation    */
+.navbar.navbar-inverse {
+	margin: 0;
+	padding-bottom: 5px;
+}
+.navbar-header img {
+	width: 40%;
+	position: relative;
+	top: 0px;
+}
+
+.nav.navbar-nav ul {
+
+}
+
+.nav.navbar-nav a {
+	padding-top: 20px;
+	font-weight: bold;
+	position: relative;
+	top: 10px;
+	color: #fff !important;
+}
+
+#recrut {
+	background-color: red;
+	border-radius: 5px;
+	padding : 0;
+	position: relative;
+	top: 10px;
+
+
+}
+
+#recrut a {
+	padding: 10px 15px 15px 15px;
+	margin-top: px;
+	position: relative;
+}
+
+#titleXs {
+text-decoration: none;
+color: #fff;
+font-weight: bold;
+position: relative;
+top: 30px;
+right: 50px;
+}
+
+#titleXl {
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+	position: relative;
+	top: 30px;
+	right: 50px;
+}
+
+
+
+
 
 
 /* Bannière */
@@ -9,7 +68,7 @@
 	margin-top: -20px;
 	filter:grayscale(1);
 
-	 
+
 }
 
 
