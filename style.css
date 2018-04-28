@@ -5,14 +5,11 @@
 
 
 /* Bannière */
-.bloc-top {
-	background-image:url('https://simplon.co/wp-content/themes/DiviChildV2/images/background-top1.jpg');
-	position: relative;
-	background-repeat: no-repeat;
-	background-size: cover;
-	padding-bottom: 80px;
-	padding-top: 250px;
-	//background-size:auto;
+.bloc-top .img-responsive{
+	margin-top: -20px;
+	filter:grayscale(1);
+
+	 
 }
 
 
