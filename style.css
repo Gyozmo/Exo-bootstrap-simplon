@@ -65,10 +65,7 @@ right: 50px;
 
 /* Bannière */
 .banniere .img-responsive{
-	margin-top: -20px;
 	filter:grayscale(1);
-
-
 }
 
 
