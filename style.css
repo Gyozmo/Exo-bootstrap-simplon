@@ -16,7 +16,20 @@
 /*    mosaique   */
 
 /*    simplon pres de chez vous   */
+.espace_map {
+	height:600px;
+}
 
+.espace_map .border_right {
+	text-align:right;
+	position:relative;
+	max-width:300px;
+	float:right;
+	background-color:#666;
+}
+.espace_map .border_left {
+
+}
 /*     simplon corp      */
 
 /*     nos actualités     */
