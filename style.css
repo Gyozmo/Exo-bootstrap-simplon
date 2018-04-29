@@ -25,7 +25,7 @@
 }
 
 #recrut {
-	background-color: red;
+	background-color: #e80041;
 	border-radius: 5px;
 	padding : 0;
 	position: relative;
@@ -73,6 +73,91 @@ right: 50px;
 
 
 /*    mosaique   */
+.container-home1 {
+	height: 400px;
+}
+
+.container-home1 a{
+color: #ed1450;
+font-weight: bold;
+
+
+}
+
+#part1{
+	height: 400px;
+	font-weight: bold;
+	background-image: url("https://simplon.co/wp-content/themes/DiviChildV2/images/background1.png");
+	color: #fff
+}
+#part1 h2 {
+
+}
+#part1 p {
+margin: 10% 1% 25% 1%;
+}
+#part1 a {
+margin: -20% 0
+}
+ /*  */
+ #part2{
+ 	height: 400px;
+ 	font-weight: bold;
+	background-color: rgb(243, 243, 243);
+ }
+ #part2 h2 {
+
+ }
+ #part2 p {
+ margin: 10% 1% 25% 1%;
+ }
+ #part2 a {
+ margin: -20% 0
+ }
+  /*  */
+	#part3{
+		height: 400px;
+		font-weight: bold;
+		background-color: #e3e2d5;
+	}
+	#part3 h2 {
+
+	}
+	#part3 p {
+	margin: 10% 1% 25% 1%;
+	}
+	#part3 a {
+	margin: -20% 0
+	}
+	 /*  */
+	 #part4{
+	 	height: 600px;
+	 	font-weight: bold;
+		background-color: #ffffff;
+	 }
+	 #part4 h2 {
+
+	 }
+	 #part4 p {
+	 margin: 10% 1% 25% 1%;
+	 }
+	 #part4 a {
+	 margin: -20% 0
+	 }
+	  /*  */
+
+
+
+
+.container-home2 {
+	height: 600px;
+}
+
+#part5 {
+	height: 400px;
+}
+
+
 
 /*    simplon pres de chez vous   */
 
