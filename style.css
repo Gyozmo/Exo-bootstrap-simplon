@@ -172,6 +172,24 @@ margin: -20% 0
 
 }
 /*     simplon corp      */
+h3 {
+    text-align: left;
+}
+p {
+    text-align: left;
+}
+
+.red{
+    color: red;
+    text-align: left;
+}
+
+h5{
+    text-align: left;
+    color: grey;
+}
+
+
 
 /*     nos actualités     */
 
@@ -179,6 +197,27 @@ margin: -20% 0
 
 /*     partenaires     */
 
+
+/*redimentionner logos*/
+
+.ligne1 img, .ligne2 img, .ligne3 img, .ligne4 img, .ligne5 img {
+	width: 75px;
+	height: 75px;
+}
+.ligne1 img, .ligne2 img, .ligne3 img, .ligne4 img, .ligne5 img {
+	max-width: 100%;
+    vertical-align: center;
+}
+   
+.ligne1 img, .ligne2 img, .ligne3 img, .ligne4 img, .ligne5 img {
+	max-width: 100%;
+	height: auto;
+}
+
+/*alignement logos 1er rang*/
+.ligne1, .ligne2, .ligne3, .ligne4, .ligne5 {
+    text-align: center;
+}
 /*     footer     */
 
 /* */
